@@ -8,7 +8,9 @@
 
 
     <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/rv_morty"
+        android:id="@+id/rv_mortin"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_height="match_parent"
+        tools:listitem="@layout/item_row_morty"/>
+
 </LinearLayout>

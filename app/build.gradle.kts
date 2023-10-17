@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.latihan_praktikum_retrofit"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.latihan_praktikum_retrofit"
